@@ -1,0 +1,86 @@
+#salir{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color: gold;
+    border-radius: 6px;
+    border: 2px solid red;
+    margin: 5px;
+    cursor: pointer;
+  }
+
+  #add_coins{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color: gold;
+    border-radius: 6px;
+    border: 2px solid red;
+    margin: 5px;
+    user-select: none;
+    cursor: pointer;
+  }
+
+
+  #tirar{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color: gold;
+    border-radius: 6px;
+    border: 2px solid red;
+    margin: 5px;
+    user-select: none;
+    cursor: pointer;
+  }
+
+   #botonera{
+    display: flex;
+    justify-content: center;
+  }
+
+
+#linea1{
+    display: flex;
+    justify-content: center;
+    color:white;
+  }
+
+  #linea1 div{
+  font-size:50px;
+  }
+
+  body{
+    background-color: black;
+  }
+
+
+  #ruleta{
+    display: flex;
+    justify-content: center;
+  }
+
+img{
+    background-color: gold;
+    margin: 5px;
+  width: 200px;
+  height: 200px; 
+  }
+
+  #historial{
+    color:white;
+    display: flex;
+    justify-content: center;
+  }
+
+  h1{
+    color:white;
+    display: flex;
+    justify-content: center;
+  }
